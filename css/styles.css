@@ -15297,7 +15297,7 @@ h2 {
     letter-spacing: -1px
 }
 
-.about-hero {
+/* .about-hero {
     background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/about/about_hero_sm-06c67fe7a515a580a4b3f83c56e7d3c62a8bc5abf5b48686e9b2775a94b475ed.jpg)
 }
 
@@ -15305,7 +15305,7 @@ h2 {
     .about-hero {
         background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/about/about_hero-cb88570bc7764af35ee6bcfb3c7d0e1f335e8391b733cdf76759a8abef40828f.jpg)
     }
-}
+} */
 
 .leadership-head {
     position: relative;
@@ -15374,13 +15374,13 @@ h2 {
 
 @media (min-width: 992px) {
     .hero {
-        height: 730px
+        height: 600px
     }
 }
 
 @media (min-width: 1200px) {
     .hero {
-        height: 650px
+        height: 600px
     }
 }
 
@@ -15823,7 +15823,7 @@ body {
     margin-top: -76px
 }
 
-.careers-hero {
+/* .careers-hero {
     background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/careers/careers_hero_sm-c3fc1b5a747f611e06de338a43415b2ddf98a398fd6f8f38c7264a44db09836f.jpg)
 }
 
@@ -15831,7 +15831,7 @@ body {
     .careers-hero {
         background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/careers/careers_hero-0ee142b2f800e206320bd683a1453eb01380636be9985b4172e2a51dbdf22387.jpg)
     }
-}
+} */
 
 .body-careers h3.text-xl {
     font-size: 1.9rem;
@@ -15846,7 +15846,7 @@ body {
     }
 }
 
-.careers-waiting-container {
+/* .careers-waiting-container {
     background-size: cover;
     background-position: center top;
     background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/careers/people_5_sm-63f8a91bbff9eeb6c152c563cc9dc5c928c231d3a1bca1269e2ff1e93109485e.jpg)
@@ -15856,7 +15856,7 @@ body {
     .careers-waiting-container {
         background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/careers/people_5-363b3ae3ce715e211589fad308738c29aa29eadc0c7b703d1774a13a5f55e6b1.jpg)
     }
-}
+} */
 
 @media (min-width: 992px) {
     .careers-waiting-container .careers-waiting-inner {
@@ -15865,7 +15865,7 @@ body {
     }
 }
 
-.contact-hero {
+/* .contact-hero {
     background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/contact/contact_hero_sm-bbc0fc77ff6c5d3691de7865794cfdc3b0de2b2d176c599f5c5127e4356fdb2d.png)
 }
 
@@ -15873,7 +15873,7 @@ body {
     .contact-hero {
         background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/contact/contact_hero-fb84be1474601033235ae3775507fd13e95c4bfa3932f7b3a46ef44843e8596f.png)
     }
-}
+} */
 
 .contact-box {
     border-top: 2px solid black
@@ -15944,7 +15944,7 @@ body {
     display: inline
 }
 
-.hiw-hero {
+/* .hiw-hero {
     background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/hiw/hiw_hero_sm-34bf931c3dd1791b532132e10c8ee19f1c34f50619282b62a7b64c222db52ef6.jpg)
 }
 
@@ -15952,7 +15952,7 @@ body {
     .hiw-hero {
         background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/hiw/hiw_hero-9699028b34b8b6813e3aa927afe17fb643d7602cae35316478855211734b82f9.jpg)
     }
-}
+} */
 
 .rates-box {
     border-top: 2px solid black
