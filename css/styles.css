@@ -15374,13 +15374,13 @@ h2 {
 
 @media (min-width: 992px) {
     .hero {
-        height: 600px
+        height: 700px
     }
 }
 
 @media (min-width: 1200px) {
     .hero {
-        height: 600px
+        height: 700px
     }
 }
 
@@ -15697,7 +15697,7 @@ body {
     #header-container ul.navbar-root-multi .nav-open-container {
         vertical-align: middle;
         display: inline-block;
-        width: 24%
+        width: 18%
     }
     #header-container ul.navbar-root-multi .nav-open-container a {
         padding: 1rem 1rem 1rem 0.2rem
