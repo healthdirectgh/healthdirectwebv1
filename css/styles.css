@@ -15989,7 +15989,7 @@ body {
     background-color: white !important
 }
 
-.index-hero {
+/* .index-hero {
     background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/index/home_hero_sm-df8863d59660c7ddc33e167c516a096e40e4e9c52281fcea347eedd87042b690.jpg)
 }
 
@@ -15997,7 +15997,7 @@ body {
     .index-hero {
         background-image: url(//d2c5ectx2y1vm9.cloudfront.net/assets/index/home_hero-ef62f4588ad76480bf1e007e3df7ca736f4ad6fd07e395999e23993830f57b14.jpg)
     }
-}
+} */
 
 @media (min-width: 992px) {
     .index-fresh {
